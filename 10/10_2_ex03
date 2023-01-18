@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <div id="mobile">
+            영역 1
+        </div>
+        <dvi id="desktop">
+            영역 2
+        </dvi>
+    </body>                
+</html>
